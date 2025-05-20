@@ -47,32 +47,7 @@ export const experience: Experience[] = [
   },
 ];
 
-export const education: Education[] = [
-  {
-    degree: "B.Tech in Computer Science and Engineering",
-    institution: "Parul Institute of Technology",
-    period: "2021 - 2025",
-    grade: "7.79",
-    gradeLabel: "CGPA",
-    location: "Vadodara, Gujarat",
-  },
-  {
-    degree: "Class 12th",
-    institution: "Jay Abla J Jeevan Inter College",
-    period: "2019",
-    grade: "71.4%",
-    gradeLabel: "Percentage",
-    location: "Ayodhya, UP",
-  },
-  {
-    degree: "Class 10th",
-    institution: "Tiny Tots Sr. Sec School",
-    period: "2017",
-    grade: "10",
-    gradeLabel: "CGPA",
-    location: "Ayodhya, UP",
-  },
-];
+
 
 export const projects: Project[] = [
   {
@@ -134,26 +109,26 @@ export const certifications = [
   {
     name: "Software Engineering: Software Design and Project Management",
     provider: "Coursera",
-    link: "https://www.coursera.org/account/accomplishments/"
+    link: "https://www.coursera.org/account/accomplishments/verify/PUKLUJTCD4OO"
   },
   {
     name: "Data Analytics with Python",
     provider: "NPTEL",
-    link: "https://nptel.ac.in/noc/Ecertificate/"
+    link: "https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs20/Course/NPTEL24CS20S106960143230314023.pdf"
   },
   {
     name: "Databases and SQL for Data Science with Python",
     provider: "IBM",
-    link: "https://www.coursera.org/account/accomplishments/"
+    link: "https://www.coursera.org/account/accomplishments/verify/LZ24GVX6D5A2"
   },
   {
     name: "Introduction to Cybersecurity",
     provider: "Cisco",
-    link: "https://www.netacad.com/portal/certificate-verification"
+    link: "https://auth.netacad.com/auth/realms/skillsforall/protocol/openid-connect/auth?client_id=b2e-marketplace&redirect_uri=https%3A%2F%2Fwww.netacad.com%2Fcertificates%3FissuanceId%3D6c1bedd5-9365-442b-b532-7b7b780a59cb%2F&state=6e3ec36f-2a49-490f-97a5-2ac62d5f2292&response_mode=fragment&response_type=code&scope=openid&nonce=3c4dc891-da78-45b1-a287-705c4e92d92b&ui_locales=en-US&code_challenge=FER3BV_QW1GXbcLjT6oIeKbwqjts_5a1cy5LVQU56hA&code_challenge_method=S256"
   },
   {
     name: "Full Stack Web Development",
     provider: "Udemy",
-    link: "https://www.udemy.com/certificate/"
+    link: "https://www.udemy.com/certificate/UC-39c57ce8-bc0d-44bb-a9de-b293111890b0/"
   },
 ];
