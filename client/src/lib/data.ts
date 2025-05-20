@@ -11,9 +11,9 @@ export const personalInfo: PersonalInfo = {
     institution: "Parul Institute of Technology",
   },
   social: {
-    linkedin: "https://linkedin.com/in/",
-    github: "https://github.com/",
-    leetcode: "https://leetcode.com/",
+    linkedin: "https://linkedin.com/in/saurabh-yadav-491997285",
+    github: "https://github.com/saurabh-44",
+    leetcode: "https://leetcode.com/u/saurabh2244/",
   },
 };
 
@@ -56,7 +56,7 @@ export const projects: Project[] = [
     description: "A feature-rich ed-tech platform for creating and consuming educational content with secure authentication and payment processing.",
     image: "https://images.unsplash.com/photo-1522881193457-37ae97c905bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
     technologies: ["React", "Node", "Express", "MongoDB", "Cloudinary", "Stripe"],
-    githubLink: "#",
+    githubLink: "https://github.com/saurabh-44/Acadion",
     liveLink: "#",
   },
   {
@@ -65,7 +65,7 @@ export const projects: Project[] = [
     description: "A full-stack e-commerce platform with user authentication, product management, and secure payment processing via PayPal.",
     image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
     technologies: ["React", "Node", "Express", "MongoDB", "Cloudinary", "PayPal API"],
-    githubLink: "#",
+    githubLink: "https://github.com/saurabh-44/WebMart",
     liveLink: "#",
   },
   {
@@ -74,7 +74,7 @@ export const projects: Project[] = [
     description: "Real-time chat application with user authentication, private messaging, and online user visibility using Socket.io.",
     image: "https://images.unsplash.com/photo-1554177255-61502b352de3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
     technologies: ["React", "Node", "Express", "Socket.io", "MongoDB"],
-    githubLink: "#",
+    githubLink: "https://github.com/saurabh-44/ThreadLink",
     liveLink: "#",
   },
   {
@@ -83,7 +83,7 @@ export const projects: Project[] = [
     description: "Personal finance tracker with secure authentication, budgeting tools, and real-time data syncing with Firebase.",
     image: "https://images.unsplash.com/photo-1560472355-536de3962603?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
     technologies: ["React", "Redux", "Firebase", "Authentication"],
-    githubLink: "#",
+    githubLink: "https://github.com/saurabh-44/CashFlow",
     liveLink: "#",
   },
 ];
