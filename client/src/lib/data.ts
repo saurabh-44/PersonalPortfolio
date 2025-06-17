@@ -11,7 +11,7 @@ export const personalInfo: PersonalInfo = {
     institution: "Parul Institute of Technology",
   },
   social: {
-    linkedin: "https://linkedin.com/in/saurabh-yadav-491997285",
+    linkedin: "https://linkedin.com/in/saurabh-yadav-dev",
     github: "https://github.com/saurabh-44",
     leetcode: "https://leetcode.com/u/saurabh2244/",
   },
@@ -36,7 +36,7 @@ export const experience: Experience[] = [
     title: "Web Developer",
     company: "ByteXL",
     period: "May 2024 - June 2024",
-    location: "Remote",
+    location: "Vadodara",
     responsibilities: [
       "Developed responsive web applications using React, Redux, and TypeScript.",
       "Implemented responsive designs for mobile and desktop platforms.",
@@ -51,13 +51,13 @@ export const experience: Experience[] = [
 
 export const projects: Project[] = [
   {
-    title: "Acadion - LMS Platform",
-    date: "Aug 2024",
-    description: "A feature-rich ed-tech platform for creating and consuming educational content with secure authentication and payment processing.",
-    image: "https://images.unsplash.com/photo-1522881193457-37ae97c905bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
-    technologies: ["React", "Node", "Express", "MongoDB", "Cloudinary", "Stripe"],
-    githubLink: "https://github.com/saurabh-44/Acadion",
-    liveLink: "#",
+    title: "JobNova - Job Portal Application",
+    date: "Mar 2025",
+    description: "A full-stack job portal platform that allows users to search and apply for jobs, while employers can post and manage job listings. Includes secure authentication, role-based access, and resume upload features.",
+    image: ".../attached_assets/Jobnova1.png",
+    technologies: ["React", "Node", "Express", "MongoDB", "JWT", "Cloudinary"],
+    githubLink: "https://github.com/saurabh-44/JobNova",
+    liveLink: "https://jobnova.onrender.com/",
   },
   {
     title: "WebMart - E-Commerce",
@@ -81,10 +81,10 @@ export const projects: Project[] = [
     title: "CashFlow - Finance Tracker",
     date: "Dec 2023",
     description: "Personal finance tracker with secure authentication, budgeting tools, and real-time data syncing with Firebase.",
-    image: "https://images.unsplash.com/photo-1560472355-536de3962603?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
+    image: ".../attached_assets/cashflow",
     technologies: ["React", "Redux", "Firebase", "Authentication"],
-    githubLink: "https://github.com/saurabh-44/CashFlow",
-    liveLink: "#",
+    githubLink: "https://github.com/saurabh-44/cashFlow.png",
+    liveLink: "https://cashflow-sepia.vercel.app/",
   },
 ];
 
