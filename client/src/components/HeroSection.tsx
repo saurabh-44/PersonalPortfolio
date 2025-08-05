@@ -33,7 +33,7 @@ const HeroSection = () => {
                 asChild
                 className="px-6 py-3 border border-primary text-primary hover:bg-primary/10 rounded-lg transition-all hover:-translate-y-0.5"
               >
-                <a href="/resume.pdf" download>Download Resume</a>
+                <a href="/attached_assets/Software_Developer_CV.pdf" download>Download Resume</a>
               </Button>
             </div>
             <div className="flex space-x-4 mt-8">
@@ -70,12 +70,14 @@ const HeroSection = () => {
             </div>
           </div>
           <div className="order-1 lg:order-2 flex justify-center">
-            <img 
-              src="https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600" 
-              alt="Modern software development workspace" 
-              className="rounded-xl shadow-2xl max-w-full lg:max-w-md"
-            />
-          </div>
+  <img 
+    src="/attached_assets/HeroSection.png" 
+    alt="Modern software development workspace" 
+    className="rounded-xl shadow-2xl transform scale-130 w-auto h-auto"
+    style={{ transformOrigin: 'center' }}
+  />
+</div>
+
         </div>
         <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 hidden md:block animate-bounce-slow">
           <a href="#about" className="text-gray-400 hover:text-primary">

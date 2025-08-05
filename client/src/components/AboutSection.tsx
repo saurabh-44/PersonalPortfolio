@@ -12,11 +12,13 @@ const AboutSection = () => {
         
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
-            <img 
-              src="https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&h=980" 
+
+          <img 
+              src="https://images.pexels.com/photos/614117/pexels-photo-614117.jpeg" 
               alt="Developer workspace with code on screen" 
-              className="rounded-xl shadow-xl w-full" 
+              className="rounded-xl shadow-xl w-[600px] h-80" 
             />
+
           </div>
           
           <div>

@@ -1,4 +1,4 @@
-export const RESUME_FILE_PATH = "/resume.pdf";
+export const RESUME_FILE_PATH = "/attached_assets/Software_Developer_CV.pdf";
 
 export const ROUTES = {
   HOME: "/",

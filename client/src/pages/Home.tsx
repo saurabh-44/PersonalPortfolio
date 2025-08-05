@@ -50,9 +50,9 @@ const Home = () => {
     <div className="min-h-screen">
       <Navbar />
       <HeroSection />
-      <AboutSection />
       <ExperienceSection />
       <ProjectsSection />
+      <AboutSection />
       <SkillsSection />
       <CertificationsSection />
       <ContactSection />
@@ -65,7 +65,7 @@ const Home = () => {
         size="icon"
         aria-label="Download Resume"
       >
-        <a href="/resume.pdf" download>
+        <a href="/attached_assets/Software_Developer_CV.pdf" download>
           <Download className="h-5 w-5" />
         </a>
       </Button>
