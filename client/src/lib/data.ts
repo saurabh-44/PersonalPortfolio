@@ -51,9 +51,9 @@ export const experience: Experience[] = [
 
 export const projects: Project[] = [
   {
-    title: "Acadion – LMS Patform",
+    title: "Acadion –  EdTech Platform",
     date: "Jul 2025",
-    description: "A full-stack Learning Management System (LMS) built with a responsive user interface, real-time dashboards, and dedicated roles for Admin, Instructor, and Student. It features secure authentication using JWT and OTP, role-based access control, Razorpay integration for payments, and Cloudinary for media management. The platform was deployed on AWS EC2 and Vercel, tested by 50+ users, and optimized for performance with a 40% faster load time.",
+    description: "A full-stack EdTech Platform built with a responsive user interface, real-time dashboards, and dedicated roles for Admin, Instructor, and Student. It features secure authentication using JWT and OTP, role-based access control, Razorpay integration for payments, and Cloudinary for media management. The platform was deployed on AWS EC2 and Vercel, tested by 50+ users, and optimized for performance with a 40% faster load time.",
     image: "/attached_assets/Acadion_image.png",
     technologies: ["React", "Node", "Express", "MongoDB", "JWT", "Cloudinary", "Razorpay", "AWS EC2", "Vercel",],
     githubLink: "https://github.com/saurabh-44/Acadion",
