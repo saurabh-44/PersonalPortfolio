@@ -89,7 +89,7 @@ export const projects: Project[] = [
   {
     title: "ThreadLink - Chat App",
     date: "Feb 2024",
-    description: "Real-time chat application with user authentication, private messaging, and online user visibility using Socket.io.",
+    description: "Threadlink is a real-time chat application that enables private messaging between users with secure authentication. Built using Socket.io, it features instant communication, online user visibility, and a smooth user experience for seamless conversations. The app ensures secure and responsive messaging across devices.",
     image: "/attached_assets/Threadlink.png",
     technologies: ["Javasript", "React", "Node", "Express", "Socket.io", "MongoDB"],
     githubLink: "https://github.com/saurabh-44/ThreadLink",
